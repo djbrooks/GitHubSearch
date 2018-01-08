@@ -1,0 +1,8 @@
+.*.swp
+*.xcf
+*.m4v
+node_modules/
+tmp/
+dist/
+public/ 
+package*

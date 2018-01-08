@@ -1,0 +1,12 @@
+.repoItems {
+    border-radius: 60px;
+    width: 64px;
+    heigth: 64px;
+    vertical-align: middle;
+    border-radius: 16px;
+    padding: 8px;
+}
+
+.repoOwner {
+    font-weight: bold;
+}
